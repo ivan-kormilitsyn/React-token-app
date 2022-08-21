@@ -1,0 +1,21 @@
+
+.succsessfull_window {
+
+    padding: 3%;
+    margin-left: -3%; 
+    min-height: 900px;
+    min-width: 850px;
+    background: url(./bg-succsessfull.jpg) no-repeat center center fixed;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.log-out-btn {
+
+    margin-top: 10px;
+    height: 45px;
+    width: 100px;
+
+}
